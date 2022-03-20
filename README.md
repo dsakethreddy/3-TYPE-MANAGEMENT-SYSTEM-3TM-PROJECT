@@ -5,3 +5,12 @@ JDBC components that I have used to establish connection and run queries:-
 1) Java.sql.Connection class - to establish connection;
 2) Java.sql.PreparedStatement - to perform or to run a query;
 3) Java.sql.ResultSet - store output acquired after running a query.
+
+Directly import ZIP into your IDE and make sure JDK is installed and Oracle database
+(Note: I'm uploading JDK 17 and ORACLE 11G SETUP file too)
+Oracle Database Credentials 
+username: database
+password: ( Refer codes inside java files )
+
+
+I'm also uploading .exe file of my project but JDK should be installed and Oracle database too. 
