@@ -12,5 +12,3 @@ Oracle Database Credentials
 username: database
 password: ( Refer codes inside java files )
 
-
-I'm also uploading .exe file of my project but JDK should be installed and Oracle database too. 
